@@ -1,0 +1,13 @@
+{
+	"name": "tsx_quotebot",
+	"version": "0.1.0",
+	"author": "Tom Tippin <tom.weatherall.tippin@utoronto.ca>",
+	"description": "command-line script that outputs TSX stock quotes",
+	"dependencies": {
+		"cheerio": "0.12.x",
+		"request": "2.27.x"
+	},
+	"engines": {
+		"node": ">=0.10.21"
+	}
+}
