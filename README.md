@@ -1,5 +1,5 @@
-tsx_quotebot
-============
+tsx_quotebot (* DEPRECATED *)
+=============================
 
 A node.js command-line script that outputs stock prices to the console
 
